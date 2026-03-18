@@ -1,6 +1,6 @@
 # Still... Day 1: Study Status Manager 🪐
 
-a simple script first made in Python (but now, on C#), to organize the study process created on my first day on solo study.
+A simple script first made in Python (but now, on C#), to organize the study process created on my first day on solo study.
 
 ## 🔌 How does it work? (Same as in Python, but in C#)
 - It collects info about the subject's name, progress percent and the next task via keyboard
@@ -23,4 +23,4 @@ a simple script first made in Python (but now, on C#), to organize the study pro
 - -n = name
 
 ---
-*learning different languages with the same algoritm.* 
+*Learning different languages with the same algoritm.* 
