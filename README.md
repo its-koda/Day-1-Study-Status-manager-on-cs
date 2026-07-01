@@ -16,6 +16,7 @@
   * Structure of a basic algorithm in C# and its differences from Python (same logic, different syntax).
   * Usage of Project files (`.csproj`).
   * Discovery of compilation artifacts.
+  * Language Comparison: Found C# to be more strict and explicit than Python, yet strangely reminiscent of Portugol structures.
 
   ## 📸 Infrastructure learning in C#
   * **Compilation Artifacts:** Every time C# runs, it generates compilation artifacts—temporary files used to execute the algorithm. They can be safely deleted (they will be recreated upon the next build).
@@ -45,6 +46,7 @@
   * Estrutura de um algoritmo básico em C# e suas diferenças em relação ao Python (mesma lógica, sintaxe diferente).
   * Uso de arquivos de projeto (`.csproj`).
   * Descoberta de artefatos de compilação.
+  * Achei o C# mais rígido e explícito que o Python, mas curiosamente parecido com as estruturas do Portugol.
 
   ## 📸 Aprendizados de infraestrutura em C#
   * **Artefatos de Compilação:** Toda vez que o C# executa algo, ele gera arquivos com artefatos de compilação, códigos temporários que ele usa para rodar o algoritmo. Eles podem ser apagados (serão criados novamente de qualquer forma).
