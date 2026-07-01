@@ -1,10 +1,20 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- This line tells the system it is a standard Microsoft .NET project -->
 
   <PropertyGroup>
+    <!-- OutputType: Specifies that this project is an executable (Exe) that runs in the console -->
     <OutputType>Exe</OutputType>
+    
+    <!-- TargetFramework: The specific version of .NET being used (version 8.0) -->
     <TargetFramework>net8.0</TargetFramework>
+    
+    <!-- RootNamespace: The main identity name of the project ("dia_1___C_") -->
     <RootNamespace>dia_1___C_</RootNamespace>
+    
+    <!-- ImplicitUsings: Enabled so you don't have to manually write common "using" statements in your code -->
     <ImplicitUsings>enable</ImplicitUsings>
+    
+    <!-- Nullable: Enabled to help prevent null reference errors (security feature) -->
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
